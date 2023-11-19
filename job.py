@@ -1,5 +1,4 @@
 ##change format from pdf to docx msf 365
-
 import PyPDF2
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
