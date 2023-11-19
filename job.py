@@ -1,4 +1,3 @@
-import docx2txt
 import PyPDF2
 
 def extract_text_from_docx(docx_path):
